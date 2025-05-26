@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 1em;
+  background-color: #f9f9f9;
+}
+#editor {
+  margin-top: 1em;
+}
+input {
+  padding: 0.5em;
+  width: 100%;
+  margin-bottom: 1em;
+}
+button {
+  padding: 0.7em;
+  font-size: 16px;
+}
+#status {
+  font-weight: bold;
+  margin-top: 1em;
+}
